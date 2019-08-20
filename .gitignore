@@ -1,0 +1,16 @@
+AppTemplate/ClientApp/.DS_Store
+
+# Log files
+npm-debug.log*
+
+# ignore node_modules
+AppTemplate/ClientApp/node_modules/*
+
+# ignore package-lock json
+AppTemplate/ClientApp/package-lock.json
+
+# inogre vs code
+.vs/*
+AppTemplate/wwwroot/*
+AppTemplate/bin/*
+AppTemplate/obj/*
