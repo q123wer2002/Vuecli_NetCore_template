@@ -6,4 +6,8 @@
  - use vs2017 to open "AppTemplate.sln", and excute F5
  	=> you would see "Welcome to Your Vue.js App"
  
- success !!
+success !!
+ 
+#trobleshotting
+ - IIS shows 500.19 => https://www.cnblogs.com/dudu/p/10807471.html
+ 
