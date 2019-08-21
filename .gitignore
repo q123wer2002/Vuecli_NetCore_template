@@ -14,3 +14,4 @@ AppTemplate/ClientApp/package-lock.json
 AppTemplate/wwwroot/*
 AppTemplate/bin/*
 AppTemplate/obj/*
+ReleasePackage/*
